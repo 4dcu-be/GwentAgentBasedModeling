@@ -1,4 +1,4 @@
-# Gwent Ladder Analysis using Agent Based Modelling
+# Gwent Ladder Analysis using Agent Based Modeling
 
 Two notebooks, one to set up an Agent Based Model (ABM) to analyze Gwent's Ladder system and if there is some truth to the myth that you can grind your way to the top...
 
